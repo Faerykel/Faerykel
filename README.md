@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faerykel
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning verytgung about internet
+- 👀 I’m interested in learning how to code and programming
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Python
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me raquel.rlima97@gmail.com
 
